@@ -3,7 +3,7 @@ aiohttp==3.6.2
 aiohttp-socks==0.2.2
 async-timeout==3.0.1
 attrs==19.3.0
-autobahn==19.11.1
+autobahn==20.12.3
 Automat==0.8.0
 backtrader==1.9.74.123
 bitstring==3.1.6
